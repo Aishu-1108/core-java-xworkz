@@ -1,4 +1,4 @@
-class SportsComplex1{
+class Girias1{
 	public static void main[String sports[]]{
 		String sportsItems[] = {"Swimming dress","Cricket bat","Tennis Ball","Foot Ball","Basket Ball"};
 		
