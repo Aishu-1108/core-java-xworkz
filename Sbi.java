@@ -1,0 +1,3 @@
+class Sbi extends BankIheritance{
+
+}

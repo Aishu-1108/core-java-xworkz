@@ -1,0 +1,3 @@
+class Ecllipse extends Ide{
+
+}
